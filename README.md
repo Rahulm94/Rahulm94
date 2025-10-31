@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Rahul Mohan
-- I have over 3 years of experience in the Data Science & Analytics industry. I have completed a Post Graduate programme in Data Science & Engineering. I am curious about using data driven insights for real world problem solving. 
-- 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently learning Python, Applied Machine Learning & Statistics
-- 💞️ I’m looking to collaborate on ML Projects
-- 📫 How to reach me ...
+I’m a Data Science & Analytics professional with 6+ years of experience in the industry. I hold a Master's Degree in Applied Mechanics from Indian Institute of Technology, Madras & PG in Data Science & Engineering. I’m passionate about leveraging data-driven insights to solve real-world problems.
 
-<!---
-Rahulm94/Rahulm94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interests: ML for Forecasting, Causal Inference, Deep Learning Theory, Generative AI
+
+💞️ Open to collaborate on: Machine Learning projects and data-driven applications
+
+📫 You can learn more about me & my work at: 💼 [Linked-In](https://www.linkedin.com/in/rahul-mohan-880624113) 🚀 [Kaggle](https://www.kaggle.com/rahulmohan94) 📝 [Medium](https://medium.com/@rahul.m9413)
